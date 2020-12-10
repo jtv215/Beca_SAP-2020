@@ -1,0 +1,76 @@
+Ejercicios del curso de sap.
+
+Ejercicios 1: Hola mundo.
+ZHOLAMUNDO2020_01  
+
+Ejercicios 2: Calculadora.
+ZCALCULADORA_01      
+
+Ejercicios 3: Creación tabla coche.
+z2020_01_coches 
+
+Ejercicios 3: Lista de coche ALV y trabajando con lectura de ficheros. 
+•	Salida por pantalla.
+•	Salida por fichero. (generar fichero txt)
+•	Cargar tabla.	(cargar tabla txt)
+•	Modificar Tabla. (cargar tabla txt con datos modificados)
+•	Borrar tabla.
+ZLISTACOCHES2020_01 
+
+Ejercicios 4: Crear una transacción de mensaje.
+z2020_01_mensajes
+
+Ejercicios 5: Lista materiales ALV + 4 tipos de consultas. (con el profesor)
+•	select
+•	select single
+•	Inner join
+•	For all Entries
+z2020_listamateriales_01
+
+Ejercicios 6: Lista aérea ALV + consultas + consulta de 4 tablas scitairp, sairport, scounter, scarr.
+•	select
+•	select single
+•	Inner join
+•	4read table
+Z2020_LISTAAEROPUERTO_01   
+
+Ejercicios 7: Lista de vuelos .
+•	2 tablas: spfli y sairport.
+•	Usando función doble clic para cambiar la transacción en un ALV.
+Z2020_LISTADOVUELOS_01  
+
+
+
+
+
+
+Ejercicios 8: Lista de equipos_REPASO .
+•	Salida por pantalla
+•	Salida por fichero
+•	Cargar tabla
+•	Modificar tabla
+•	Borrar tabla.
+Z2020_LISTAEQUIPOS_01 
+
+Ejercicios 9: Repaso global, lista de reservas de vuelo con dos tablas y smartforms.
+•	Tablas: sflight y snvoice.
+•	Lista ALV
+•	Función para lanzar formulario smartforms
+•	Creando formularios de tipo smartforms.-> Z2020_COCHES_01
+•	Crear stilos para smartforms-> zs_2020_coches_01
+•	El diseño está en otro Word para el smartforms.
+Z0001_RESERVAS_2020
+
+Nota para el ejercicio 9:
+Plazas libres totales (CAMPO Calculado): 
+(nº asientos totales)	(nº asientos ocupados)
+sflight-seatsmax    	sflight-seatsocc
+sflight-seatsmax_b		sflight-seatsocc_b
+sflight-seatsmax_f		sflight-seatsocc_f
+Plaza libres totales: nº asientos libres = nºasientos totales - nº asientos ocupados.
+
+
+Ejercicios 10: Carga de fichero Excel.xls y Batch input
+•	tabla de base de datos: LFA1
+Z2020_CARGAXK01_01
+

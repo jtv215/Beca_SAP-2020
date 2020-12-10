@@ -1,0 +1,20 @@
+ ALAVES                                           17OSCURO
+ ATHLETIC BILBAO                                  19OSCURO
+ ATLETICO MADRID                                  12OSCURO
+ CADIZ                                            9 CLARO
+ CELTA VIGO                                       13OSCURO
+ EIBAR                                            14OSCURO
+ ELCHE                                            16OSCURO
+ FC BARCELONA                                     5 CLARO
+ FC SEVILLA                                       6 CLARO
+ GETAFE                                           7 CLARO
+ GRANADA                                          10CLARO
+ HUESCA                                           15OSCURO
+ LEVANTE                                          18OSCURO
+ OSASUNA                                          11OSCURO
+ REAL BETIS                                       2 CLARO
+ REAL MADRID                                      1 CLARO
+ REAL SOCIEDAD                                    3 CLARO
+ VALENCIA                                         8 CLARO
+ VALLADOLID                                       20OSCURO
+ VILLARREAL                                       4 CLARO
